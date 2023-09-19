@@ -7,4 +7,7 @@ footer {
 	text-align: center;
 	line-height: 30px;
 	border-top: 1px solid #CCCCCC;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
